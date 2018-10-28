@@ -17,9 +17,10 @@
   },
   "repository": "SBoudrias/AST-query",
   "dependencies": {
+    "acorn-jsx": "^4.0.0",
     "class-extend": "^0.1.1",
     "escodegen-wallaby": "^1.6.7",
-    "acorn-jsx": "^4.0.0",
+    "estraverse": "^4.2.0",
     "lodash": "^4.6.1",
     "traverse": "^0.6.6"
   },
